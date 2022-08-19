@@ -1,5 +1,7 @@
+
+patika.dev Veri Yapıları ve Algoritmalar - [Insertion Sort Projesi ve Tüm projelerim](https://app.patika.dev/isakli05).
 # Insertion-Sort
-patika.dev Veri Yapıları ve Algoritmalar - Insertion Sort Projesi
+## patika.dev Veri Yapıları ve Algoritmalar - Insertion Sort Projesi
 
 ## [22,27,16,2,18,6] -> Insertion Sort
 ## 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
